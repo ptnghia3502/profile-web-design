@@ -13,12 +13,15 @@
 ![Header](https://github.com/ptnghia3502/clone-profile-template/blob/main/preview%20imgs/1.png)
 ![Body](https://github.com/ptnghia3502/clone-profile-template/blob/main/preview%20imgs/2.png)
 ![Footer](https://github.com/ptnghia3502/clone-profile-template/blob/main/preview%20imgs/3.png)
-<span>
-![Light Page](https://github.com/ptnghia3502/clone-profile-template/blob/main/preview%20imgs/4.png)
-</span>
-<span>
-![Dark Page](https://github.com/ptnghia3502/clone-profile-template/blob/main/preview%20imgs/5.png)
-</span>
+
+<div align=center>
+  <div>
+    <img width="400" align="left" src="https://github.com/ptnghia3502/clone-profile-template/blob/main/preview%20imgs/4.png" />
+  </div>
+  <div>
+    <img width="400" align="center" src="https://github.com/ptnghia3502/clone-profile-template/blob/main/preview%20imgs/5.png" />
+  </div>
+</div> </br>
 
 ## :books: Learn more
 * I learned to do this web in [F8 - Học lập trình để đi làm](https://fullstack.edu.vn/)
