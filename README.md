@@ -7,7 +7,12 @@
 * 👉 [Click here](https://tienhuynh-tn.github.io/clone-w3s-template-band/) to view the results that I have done in learning
 
 ## 💻 Technology
-`HTML` `CSS` `JavaScript`
+<span><img src="https://img.shields.io/badge/HTML5-F8F8FF?logo=HTML5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-F8F8FF?logo=CSS3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/JavaScript-F8F8FF?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
 
 ## 📷	 Some preview images
 ![Header](https://github.com/ptnghia3502/clone-profile-template/blob/main/preview%20imgs/1.png)
