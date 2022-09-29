@@ -21,13 +21,15 @@
   <div>
     <img width="400" align="center" src="https://github.com/ptnghia3502/clone-profile-template/blob/main/preview%20imgs/5.png" />
   </div>
-</div> </br>
+</div>
+</br></br></br></br></br></br></br></br></br>
 
-## :books: Learn more
-* I learned to do this web in [F8 - Học lập trình để đi làm](https://fullstack.edu.vn/)
-* To learn more about HTML, CSS and JavaScript, you can check out [W3Schools](https://www.w3schools.com/)
+## 📚 Some more reference material
+* [Bedimcode](https://www.youtube.com/c/Bedimcode) - Channel on Youtube
+* [Phạm Huy Hoàng](https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog) - Channel on Youtube
+* [F8 Official](https://www.youtube.com/c/F8VNOfficial) - Channel on Youtube
 
-## :heavy_check_mark:	 License & Copyright
-&copy; 2021 Tien Huynh tienhuynh-tn Licensed under the [MIT LICENSE](https://github.com/tienhuynh-tn/clone-w3s-template-band/blob/master/LICENSE).
+## ✔️ License & Copyright
+&copy; 2022 Pham Trong Nghia Licensed under the [GPL-3.0 LICENSE](https://github.com/ptnghia3502/object-oriented-programming/blob/main/README.md).
 
-> :love_you_gesture: Feel free to use my repository and star it if you find something interesting :love_you_gesture:
+> 👌 Feel free to use my repository and star it if you find something interesting 😄
