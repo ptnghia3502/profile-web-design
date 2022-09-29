@@ -4,7 +4,7 @@
 * This web is cloned from [Bedimcode Channel on Youtube](https://www.youtube.com/watch?v=mq0xJxOTiYo&list=LL&index=61&t=156s&ab_channel=Bedimcode)
 * The purpose of doing this web is to practice `HTML`, `CSS`, `JavaScript` in Web Design course at my university.
 * 👉 [Click here](https://www.buymeacoffee.com/bedimcode/e/65191) to view the original template
-* 👉 [Click here](https://tienhuynh-tn.github.io/clone-w3s-template-band/) to view the results that I have done in learning
+* Scroll down to view the results that I have done in learning
 
 ## 💻 Technology
 <span><img src="https://img.shields.io/badge/HTML5-F8F8FF?logo=HTML5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
